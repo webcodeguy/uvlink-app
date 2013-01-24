@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        id    = "com.hfmw.tartanhunt"
+        version = "1.0.0" >
+  <name>Parker Sorensen</name>
+  <description>Test app</description>
+  <author href="https://parkersorensen.com"
+          email="parkerdsorensen@gmail.com">PARKER SORENSEN
+  </author>
+  <icon src="http://dribbble.s3.amazonaws.com/users/9514/screenshots/816243/app-iphone-dribbble_1x.png" />
+</widget>
